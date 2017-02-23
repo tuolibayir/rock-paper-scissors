@@ -1,2 +1,3 @@
-# rock-paper-scissors
-石头剪刀布
+# rock-paper-scissors 石头剪刀布
+用刚学会的知识做了石头剪刀布的游戏，作为练习
+代码还是很粗糙复杂
